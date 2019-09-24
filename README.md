@@ -1,6 +1,8 @@
 # contact-list
 A simple contact list made with python
 
+![](Screenshot from 2019-09-24 18-04-30.png)
+
 ## Project setup
 ### Clone the repository
 ```
