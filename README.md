@@ -1,7 +1,7 @@
 # contact-list
 A simple contact list made with python
 
-![](Screenshot from 2019-09-24 18-04-30.png)
+![](https://github.com/tiagopaes/contact-list/blob/master/Screenshot%20from%202019-09-24%2018-04-30.png)
 
 ## Project setup
 ### Clone the repository
